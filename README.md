@@ -1,1 +1,3 @@
-Project for Boot.dev course: [Build a python bookbot](https://www.boot.dev/courses/build-bookbot-python)
+# bookbot
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
