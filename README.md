@@ -3,7 +3,7 @@
 BookBot is my first [Boot.dev](https://www.boot.dev) project!
 This is a CLI app made with Python 3, so it is required. If you don't know how to install python on your machine check this [online tutorial](https://www.geeksforgeeks.org/download-and-install-python-3-latest-version/)
 
-To use bookbot simple type on CLI, on the project root directory:
+To use bookbot is simple. Type into your CLI on the project root directory:
 python3 main.py <path_to_book>
 
 It should print something like this:
