@@ -48,5 +48,6 @@ z: 235
 ```
 
 If you wanna try a different book, check on this [awesome website.](https://www.gutenberg.org)
-Just download de ebook, add on new directory on your machine and execute passing the filepath as argument.
+Just download the ebook, add it to a new directory on your machine and execute passing the filepath as argument.
+
 Have fun!
